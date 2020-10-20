@@ -1,3 +1,4 @@
+Minor changes by js-assignment branch
 Minor change made in css-assignment branch 
 this is a read me document by praful
 
