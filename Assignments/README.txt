@@ -1,3 +1,4 @@
 this is a read me document by praful
 
+made minor changes on line 3 in master
 changed made in master branch
